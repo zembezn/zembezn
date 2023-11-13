@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kanya
 - 👀 I’m interested in tech, history and travel 
-- 🌱 I’m currently learning frontend development
+- 🌱 I’m currently learning frontend development and testing
 - 💞️ I’m looking to collaborate on projects and anything to sharpen my skill
 - 📫 How to reach me zembekanya@gmail.com 
 
